@@ -23,7 +23,7 @@ if Idade > 18:
     if Nominho == 'Maria':
         print('Sim, é a Rainha')
     else:
-            print('Não é ela, senhores!')
+        print('Não é ela, senhores!')
 
 Dia = "Quarta"
 if Dia == "Segunda":
@@ -79,7 +79,7 @@ else:
     print("Uma das duas condições é falsa")
 
 NumBer = 130
-if (not(NumBer > 84.30) and (NumBer % 2 == 0 )) or (NumBer == 130):
+if (not (NumBer > 84.30) and (NumBer % 2 == 0)) or (NumBer == 130):
     print("Isso está sendo inputado porque as duas primeiras são verdadeiras ou a terceira é verdadeira!")
 
 enjoyable_discipline = "Analise de Dados"
@@ -92,21 +92,21 @@ else:
     print("Tente refazer todo o curso com mais atenção e estude mais!")
 
 Disciplina = input('Digite o curso que você quer:  ')
-NotaFim = input ('Digite a sua nota disponibilizada (entre 0 e 100):' )
+NotaFim = input('Digite a sua nota disponibilizada (entre 0 e 100):')
 
-if Disciplina == 'Analista de Dados' and NotaFim  and float('80'):
+if Disciplina == 'Analista de Dados' and NotaFim and float('80'):
     print("Parabens! você passou neste curso!")
 else:
     print('Ops!! Tente denovo fazer o curso.')
 
 Disciplina = input('Digite o curso que você quer: ')
-NotaFim = input ('Digite a sua nota disponibilizada (entre 0 e 100):' )
+NotaFim = input('Digite a sua nota disponibilizada (entre 0 e 100):')
 NotaSemestral = input('Digite sua nota no semestre (entre 0 a 10): ')
 
-if Disciplina == 'Analista de Dados' and NotaFim  and float('80') and float(NotaSemestral) !=6.5:
+if Disciplina == 'Analista de Dados' and NotaFim and float('80') and float(NotaSemestral) != 6.5:
     print("Parabens! você passou neste curso!")
 
-elif Disciplina == 'Data Science' and NotaFim and int('90') and float(NotaSemestral) !=1:
+elif Disciplina == 'Data Science' and NotaFim and int('90') and float(NotaSemestral) != 1:
     print("Você passou com  %r%%  Em %s!. Parabens!" % (NotaFim, Disciplina))
 
 else:
