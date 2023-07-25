@@ -3,4 +3,6 @@
 # Estudando a documentação das bibliotecas!
 https://www.datascienceacademy.com.br/ <br>
 
-https://findocs.com.br/
+https://findocs.com.br/ <br>
+
+https://www.youtube.com/
