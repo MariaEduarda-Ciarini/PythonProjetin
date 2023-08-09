@@ -5,4 +5,4 @@ https://www.datascienceacademy.com.br/ <br>
 
 https://findocs.com.br/ <br>
 
-https://www.youtube.com/
+https://cursos.alura.com.br/
