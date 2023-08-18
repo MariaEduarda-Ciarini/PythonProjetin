@@ -44,5 +44,6 @@ class DateBR:
         return formatted_data
 
     def time_register(self):
-        time_regis = (datetime.today() + timedelta(days=30)) - self.registration_moment
+        time_regis = (datetime.today() + timedelta(days=30)) - \
+            self.registration_moment
         return time_regis
