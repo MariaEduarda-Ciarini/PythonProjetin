@@ -1,3 +1,7 @@
+<a href="https://wakatime.com/badge/github/MariaEduarda-Ciarini/PythonProjetin">
+  <img src="https://wakatime.com/badge/github/MariaEduarda-Ciarini/PythonProjetin.svg?style=plastic" alt="WakaTime">
+</a>
+
 # Projetos de Python e Data Science
 
 Este repositório reúne diversos projetos e estudos realizados em Python, com foco em Data Science, visualização de dados, e boas práticas de programação. Os projetos aqui desenvolvidos foram baseados em cursos e materiais de plataformas como Data Science Academy (DSA), Alura e Findocs.
